@@ -1,10 +1,8 @@
-tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-opencv-python
+streamlit>=1.30.0
+tensorflow>=2.14.0
 Pillow
-scikit-learn
-streamlit
-plotly
+opencv-python-headless
+markdown-it-py==3.0.0
+mdurl==0.1.2
+pygments==2.19.2
+rich==14.0.0
